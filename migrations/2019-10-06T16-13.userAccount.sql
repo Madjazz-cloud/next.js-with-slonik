@@ -1,6 +1,8 @@
 --userAccount (up)
 
-CREATE TABLE userAccount(
+CREATE TABLE userAccount
+(
   id SERIAL,
   username TEXT
 );
+
